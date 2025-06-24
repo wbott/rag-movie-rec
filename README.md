@@ -9,6 +9,13 @@
 
 **Ask about movies by genre, actors, plot summaries, or reviews — just like chatting with a friend.**
 
+## 🎯 Why This Project?
+
+**Traditional movie search is broken.** You know the feeling:
+- 🤔 *"I want something like Inception but not sci-fi"*
+- 😤 *"Show me action movies but make them smart"*  
+- 🎭 *"Find me movies with that actor from that thing"*
+
 ---
 
 ## ✨ Features
@@ -33,12 +40,6 @@
 
 ---
 
-## 🎯 Why This Project?
-
-**Traditional movie search is broken.** You know the feeling:
-- 🤔 *"I want something like Inception but not sci-fi"*
-- 😤 *"Show me action movies but make them smart"*  
-- 🎭 *"Find me movies with that actor from that thing"*
 
 **This system gets it.** Instead of keyword matching, it understands **context**, **meaning**, and **relationships** between movies. Ask naturally, get perfect results.
 

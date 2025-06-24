@@ -7,8 +7,6 @@
 [![Gradio](https://img.shields.io/badge/Gradio-UI-ff7c00?style=for-the-badge&logo=gradio&logoColor=white)](https://gradio.app)
 [![No CUDA](https://img.shields.io/badge/No%20CUDA-Lightweight-brightgreen?style=for-the-badge)](https://github.com)
 
-![Demo](image.png)
-
 **Ask about movies by genre, actors, plot summaries, or reviews — just like chatting with a friend.**
 
 ---
@@ -323,6 +321,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Hugging Face** for Sentence Transformers
 - **LangChain** for LLM orchestration framework
 - **Gradio** for the beautiful web interface
+
+
+![Demo](image.png)
 - **IMDb** for the movie dataset
 
 ---
